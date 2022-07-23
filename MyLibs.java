@@ -157,6 +157,6 @@ public class MyLibs {
         char s = char.class.cast(rand.nextInt(16));
         return s;
     }
-    
+//Son ngu lon!  
 }
 
